@@ -368,7 +368,7 @@ a.contacts__item:hover{border-color:var(--accent)}
   text-align:center;
   padding:calc(var(--header-h) + 24px) var(--gutter) clamp(48px, 8vw, 80px);
 }
-.section--closing .container{max-width:900px}
+.section--closing .container{max-width:1000px}
 .section--closing .eyebrow{justify-content:center;display:block}
 .section--closing .section__title{
   font-size:clamp(40px, 8vw, 110px);
